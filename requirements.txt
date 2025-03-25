@@ -1,11 +1,11 @@
-Django==5.0.2
+Django==4.2.0
 djangorestframework==3.14.0
 django-cors-headers==4.3.1
 djangorestframework-simplejwt==5.3.1
 social-auth-app-django==5.4.0
 Pillow==10.2.0
-numpy==1.26.3
-tensorflow==2.15.0
+numpy==1.24.3
+tensorflow==2.16.1
 opencv-python==4.9.0.80
 python-dotenv==1.0.0
 psycopg2-binary==2.9.9
@@ -14,6 +14,6 @@ scikit-learn==1.4.0
 torch==2.1.2
 transformers==4.36.2
 python-decouple==3.8
-gunicorn==21.2.0
+gunicorn==20.1.0
 whitenoise==6.6.0
 dj-database-url==2.1.0
